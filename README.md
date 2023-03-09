@@ -1,5 +1,5 @@
 # Bootstrap Tree View
-+ [jQuery jsTree](https://github.com/vakata/jstree)
++ [jQuery jsTree](https://github.com/vakata/jstree) (https://github.com/vakata/jstree/releases)
 + [jQuery jqTree](https://github.com/mbraak/jqTree)
 + [jQuery Context Menu](https://swisnl.github.io/jQuery-contextMenu/)
   + [Best Context Menu](https://www.jqueryscript.net/blog/best-context-menus.html)
