@@ -1,14 +1,39 @@
 # Bootstrap Tree View
 + [jQuery jsTree](https://github.com/vakata/jstree)
-+ [jQuery jqTree](https://weblogs.asp.net/jdanforth/lazy-loading-treeview-sample-with-asp-net-mvc-and-jqtree)
++ [jQuery jqTree](https://github.com/mbraak/jqTree)
 + [jQuery Context Menu](https://swisnl.github.io/jQuery-contextMenu/)
   + [Best Context Menu](https://www.jqueryscript.net/blog/best-context-menus.html)
+  + [Best Context Menu](https://www.bestjquery.com/demo/jquery-context-menu/)
   + [Tag Context Menu](https://www.cssscript.com/tag/context-menu/)
+  + [Source Context Menu](https://github.com/swisnl/jQuery-contextMenu)
 + [Best Responsive Menu](https://www.jqueryscript.net/blog/best-responsive-menu.html)
 + [Best Mega Menu](https://www.jqueryscript.net/blog/best-mega-menu.html)
 + Bootstrap Treeview (http://www.jondmiles.com/bootstrap-treeview)
 + Tree View for Twitter Bootstrap (js) (https://github.com/tbaron/bootstrap-treeview)
 + GetTreeData (cs)
++ https://github.com/swisnl/jQuery-contextMenu
++ https://github.com/DavidUv/jqTreeContextMenu
++ https://www.c-sharpcorner.com/article/implement-contextmenu-in-jstree/
++ https://everyething.com/jsTree-with-Custom-Context-Menu
++ https://weblogs.asp.net/jdanforth/lazy-loading-treeview-sample-with-asp-net-mvc-and-jqtree
++ [jQuery] (https://wiki.matbao.net/jquery-la-gi-tong-quan-ve-jquery-va-huong-dan-su-dung-jquery/)
++ [jQuery Plugin](https://viblo.asia/p/tao-jquery-plugin-7eERELyQvgNj)
++ https://jquery-plugins.net/
+  + Effect: Plug-in jQuery tạo hiệu ứng mạnh mẽ
+  + TaggingJS: Hỗ trợ tạo thẻ Tag phân loại nội dung
+  + Autocomplete: Hỗ trợ dự đoán từ ngữ
+  + Scrollmagic: Plug in hỗ trợ hiệu ứng cuộn
+  + Fine Uploader: Plug in hỗ trợ chức năng upload
+  + jQuery Upload File: Cung cấp khả năng upload file với một progress bar
+  + Blueimp Gallery: Plugin hỗ trợ tạo thư viện ảnh
+  + CollagePlus: Sắp xếp hình ảnh của bạn phù hợp một cách chính xác trong một container
+  + Slidebars là một plugin jQuery cho phép thực hiện các app-style, overlaying, push menus và sidebars tới trang web của bạn một cách nhanh nhất và dễ dàng
+    + https://github.com/adchsm/Slidebars
+  + Slick: Plug in hỗ trợ tạo carousel thú vị
+  + Slider: Plugin hỗ trợ tạo slide đẹp
+  + Infinite Ajax Scroll: Cuộn không ngừng
+  + AnimateScroll: Plug in hỗ trợ cuộn đến vị trí định sẵn
++ https://www.bestjquery.com/example/jquery-plugins/
 
 ---
 
